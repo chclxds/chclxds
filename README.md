@@ -1,5 +1,5 @@
 # 👋 Hi there - Olá 👋
-## I'm Chacal
+<!--## I'm Chacal-->
 
 <p align="center">Principles:</p>
 <p align="center">KISS - Keep It Simple, Stupid (Mantenha isto simples, estúpido)</p>
