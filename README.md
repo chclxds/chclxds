@@ -7,7 +7,7 @@
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
 
 
-Your IP Public: curl http://www.icanhazip.com/
+<!--Your IP Public: curl http://www.icanhazip.com/
 
 
 
