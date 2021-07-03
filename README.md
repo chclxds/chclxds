@@ -7,6 +7,8 @@
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
 
 
+Your IP Public: ${exec curl -s www.icanhazip.com}
+
 
 
 <!--
