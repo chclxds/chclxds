@@ -1,7 +1,7 @@
 # 👋 Hi there - Olá 👋
 <!--## I'm Chacal-->
 
-<p align="center">Principles:</p>
+<p align="center">Principles (Princípios):</p>
 <p align="center">KISS - Keep It Simple, Stupid (Mantenha isto simples, estúpido)</p>
 <p align="center">YAGNI - You Aren’t Gonna Need It (Você não precisa disso)</p>
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
