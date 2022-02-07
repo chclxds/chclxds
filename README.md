@@ -1,4 +1,4 @@
-# 👋 Hi there - Olá 👋
+# 👋 Hi there - Oi, olá 👋
 <!--## I'm Chacal-->
 
 <p align="center">Principles (Princípios):</p>
@@ -6,18 +6,7 @@
 <p align="center">YAGNI - You Aren’t Gonna Need It (Você não precisa disso)</p>
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
 
-
-
-
-<!--Your IP Public: curl http://www.icanhazip.com/
-
-
-
 <!--
-**chclxds/chclxds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
