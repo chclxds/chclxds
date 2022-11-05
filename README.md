@@ -7,7 +7,8 @@
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
 
 
-![github contribution grid snake animation](https://github.com/chclxds/chclxds/blob/output/github-contribution-grid-snake-dark.gif#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/chclxds/chclxds/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/chclxds/chclxds/blob/output/github-contribution-grid-snake-dark.gif)
+![github contribution grid snake animation](https://github.com/chclxds/chclxds/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
 
 <!--
 - 🔭 I’m currently working on ...
