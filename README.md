@@ -6,6 +6,9 @@
 <p align="center">YAGNI - You Aren’t Gonna Need It (Você não precisa disso)</p>
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/chclxds/chclxds/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/chclxds/chclxds/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
