@@ -6,8 +6,6 @@
 <p align="center">YAGNI - You Aren’t Gonna Need It (Você não precisa disso)</p>
 <p align="center">DRY - Don’t Repeat Yourself (Não se repita)</p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
