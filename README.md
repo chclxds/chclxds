@@ -1,4 +1,4 @@
-<h1 align="center"># 👋 Hi there - Oi, olá 👋
+<h1 align="center">👋 Hi there - Oi, olá 👋</h1>
 <!--## I'm Chacal-->
 
 <p align="center">Principles (Princípios):</p>
